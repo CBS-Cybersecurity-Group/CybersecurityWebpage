@@ -20,7 +20,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: 
 
 hero_settings:
   overlay_opacity: 0.8
@@ -157,4 +157,41 @@ advanced_settings:
   analytics_code: ""
   custom_styles: ""
   header_js: ""
-  footer_js: ""
+
+  # Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: linkedin
+      url: "/"
+    - title: github
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: linkedin
+      url: #
+    - title: github
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: linkedin
+      url: #
+    - title: github
+      url: #
+
+- name: Jane Doe
+  pic: 4
+  position: Lead Developer
+  social:
+    - title: linkedin
+      url: #
+    - title: github
+      url: #

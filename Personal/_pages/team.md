@@ -1,32 +1,36 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: Our amazing team
+subtitle: Collaboration between students and academic professionals.
+description: Presenting the team
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+<head>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+</head>
 
-We've packed Personal full of powerful features to help showcase your work:
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+<div class="container">
+    <div class="row">
+        {% for member in site.data.settings.people %}
+        <div class="col-sm-4">
+            <div class="team-member m-4">
+                <img src="images/team/{{ member.pic }}.jpg" class="img-responsive rounded-circle" alt="">
+                <h4 class="mt-3 text-center">{{ member.name }}</h4>
+                <p class="text-muted text-center">{{ member.position }}</p>
+                <ul class="list-inline social-buttons text-center">
+                    {% for network in member.social %}
+                    <li class="list-inline-item">
+                        <a href="{{ network.url }}">
+                            <i class="fab fa-{{ network.title }}"></i>
+                        </a>
+                    </li>
+                    {% endfor %}
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
