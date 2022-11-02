@@ -1,5 +1,6 @@
 basic_settings:
   site_title: Lab X CBS
+  favicon_image: /Images/Logo/l4.png
 
 
 header_settings:
@@ -9,7 +10,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Projects'
-      url: '/blog/'
+      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Team'
