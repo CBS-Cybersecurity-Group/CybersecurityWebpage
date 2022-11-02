@@ -1,5 +1,5 @@
 ---
-title: 'Email security Project'
+title: 'Phising attack Project'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: An analysis of the latest email security threats & actionable insights to improve defenses..

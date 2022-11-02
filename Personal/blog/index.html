@@ -7,14 +7,14 @@ featured_image: /images/demo/blog.jpg
 
 <section class="hero hero--single">
 
-	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+	<div class="hero__image" style="background-image: url({{page.featured_image | relative_url }})">
 		<div class="hero__overlay"></div>
 	</div>
 
 	<div class="wrap">
 
-		<h1>What I've been up to</h1>
-		<p>Personal includes a simple blog with pagination.</p>
+		<h1>Projects</h1>
+		<p>An overview of all the current projects.</p>
 
 	</div>
 
@@ -24,29 +24,64 @@ featured_image: /images/demo/blog.jpg
 
 	<div class="wrap">
 
-		{% for post in paginator.posts %}
+		
 
 		<article class="post">
 
 			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+				<div class="post__image" style="background-image: url(/images/demo/email.jpg)"></div>
 			</div>
 
 			<div class="post__content-wrap">
 				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-					<p class="post__subtitle">{{ post.subtitle }}</p>
-					<p class="post__description">{{ post.description }}</p>
+					<h2 class="post__title"><a href="/project/demo-project">Email security Project</a></h2>
+					<p class="post__subtitle">This is a demo</p>
+					<p class="post__description">An analysis of the latest email security threats & actionable insights to improve defenses.</p>
 				</div>
 			</div>
 
 		</article>
 
-		{% endfor %}
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url(/images/demo/password.jpg)"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="/project/password-project">Password security Project</a></h2>
+					<p class="post__subtitle">This is a demo</p>
+					<p class="post__description">A type of cyberattack where hackers attempt to access a file, folder, account, or computer secured with a password.</p>
+				</div>
+			</div>
+
+		</article>
+
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url(/images/demo/phishing.jpg)"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="/project/phising-project">Phishing attack Project</a></h2>
+					<p class="post__subtitle">This is a demo</p>
+					<p class="post__description">When attackers attempt to trick users into doing 'the wrong thing', such as clicking a bad link that will download malware, or direct them to a dodgy website</p>
+				</div>
+			</div>
+
+		</article>
+
+		
 
 	</div>
 
 </section>
+
+
 
 {% if paginator.total_pages > 1 %}
 

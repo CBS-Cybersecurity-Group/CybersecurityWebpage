@@ -1,12 +1,12 @@
 ---
-title: 'Email security Project'
+title: 'Password security Project'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: An analysis of the latest email security threats & actionable insights to improve defenses..
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/password.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/password.jpg)
 
 ## Demo content
 
