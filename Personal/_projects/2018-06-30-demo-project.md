@@ -6,7 +6,7 @@ description: An analysis of the latest email security threats & actionable insig
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/email.jpg)
 
 ## Demo content
 
