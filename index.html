@@ -1,0 +1,81 @@
+---
+layout: default
+title: Home
+description: A sleek, modern Jekyll theme for personal websites. Personal is the perfect theme for developers, designers and other creatives.
+featured_image: /images/demo/home.jpg
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url(/images/demo/home2.jpg)">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Welcome to the Cybersecurity Lab</h1>
+		<p> As part of the Department of Digitalization at Copenhagen Business School our aim is to tackle and solve the challenges of CyberSecurity.
+			The primary focus of our project is to code Challenges using the Haaukins platform. </p>
+
+		{% include socials.html %}
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url(/images/demo/password.jpg)"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="/project/password-project">Password Security Project</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">A type of cyberattack where hackers attempt to access a file, folder, account, or computer secured with a password.</p>
+				</div>
+			</div>
+
+		</article>
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url(/images/demo/email.jpg)"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="/project/demo-project">Email Security Project</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">An analysis of the latest email security threats & actionable insights to improve defenses.</p>
+				</div>
+			</div>
+
+		</article>
+
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url(/images/demo/phishing.jpg)"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="/project/phising-project">Phishing Attack Project</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">When attackers attempt to trick users into doing 'the wrong thing', such as clicking a bad link that will download malware, or direct them to a dodgy website</p>
+				</div>
+			</div>
+
+		</article>
+
+	</div>
+
+</section>
