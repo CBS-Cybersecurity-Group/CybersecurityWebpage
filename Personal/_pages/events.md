@@ -2,7 +2,7 @@
 title: Upcoming events and highlights
 subtitle: Join us in one of our upcoming events.
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/contact.jpg
+featured_image: /images/demo/events.jpg
 ---
 
 <head>

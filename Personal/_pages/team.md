@@ -2,7 +2,7 @@
 title: Our amazing team
 subtitle: Collaboration between students and academic professionals.
 description: Presenting the team
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/team.jpg
 ---
 
 <head>
