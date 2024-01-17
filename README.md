@@ -4,8 +4,6 @@ Certainly! Below is a template for your README file on GitHub. Make sure to repl
 
 # CBS Cybersecurity Projects Showcase
 
-![CBS Logo](url_to_cbs_logo.png)
-
 ## Overview
 
 This repository contains the code and assets for the CBS Cybersecurity Projects Showcase website. As a group of student researchers and part-time employees, we undertook various cybersecurity projects during our tenure. This website serves as a comprehensive showcase of our accomplishments, detailing the methodologies, tools, and outcomes of our work.
