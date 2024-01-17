@@ -1,6 +1,3 @@
-Certainly! Below is a template for your README file on GitHub. Make sure to replace the placeholder text with your specific details.
-
----
 
 # CBS Cybersecurity Projects Showcase
 
