@@ -26,8 +26,6 @@ This repository contains the code and assets for the CBS Cybersecurity Projects 
 
 ## Getting Started
 
-To view the CBS Cybersecurity Projects Showcase, simply visit [project-website-url](url_to_project_website).
-
 If you want to run the website locally, follow these steps:
 
 1. Clone the repository:
@@ -42,8 +40,7 @@ If you want to run the website locally, follow these steps:
 
 We used a GitHub repository template as a starting point for this project. To personalize it to match the CBS style and logo, we made the following customizations:
 
-- **Logo**: Replaced the default logo with the [CBS logo](![image](https://github.com/CBS-Cybersecurity-Group/CBS-Cybersecurity-Group.github.io/assets/56582203/a43b3c54-7d31-43b1-95d3-3e1885d2266a)
-).
+- **Logo**: Replaced the default logo with the CBS logo
 - **Color Scheme**: Updated the color scheme to align with CBS branding guidelines.
 - **Content**: Modified the content to accurately represent our cybersecurity projects.
 
@@ -51,8 +48,8 @@ Feel free to further customize the website by updating the CSS, HTML, and assets
 
 ## Contributors
 
-- Alisia Michel ([GitHub Profile]([url_to_ALisia_github](https://github.com/almi22ad)))
-- Arianna Sammarchi ([GitHub Profile]([url_to_Arianna_github](https://github.com/AriannaSammarchi)))
+- Alisia Michel ([GitHub Profile](https://github.com/almi22ad))
+- Arianna Sammarchi ([GitHub Profile](https://github.com/AriannaSammarchi))
 
 ## License
 
