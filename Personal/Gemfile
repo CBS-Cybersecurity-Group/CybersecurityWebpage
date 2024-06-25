@@ -2,14 +2,10 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
 gem "github-pages", "~> 227"
-gem "jekyll-seo-tag", "~> 2.6"
 gem "jekyll-paginate", "~> 1.1"
-gem "jekyll-sitemap", "~> 1.4"
-gem "jekyll-feed", "~> 0.15"
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-  gem "jekyll-feed"
+  gem "jekyll-seo-tag", "~> 2.6"
+  gem "jekyll-sitemap", "~> 1.4"
+  gem "jekyll-feed", "~> 0.15"
 end
