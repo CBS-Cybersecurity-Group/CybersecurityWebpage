@@ -32,13 +32,13 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
           cache-version: 0
-      - name: Change Directory to Personal
-        run: cd Personal
       - name: Install Bundler and Gems
+        working-directory: Personal
         run: bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        working-directory: Personal
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
