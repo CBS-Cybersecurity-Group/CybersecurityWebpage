@@ -33,17 +33,18 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Install Bundler and Gems
-        working-directory: Personal
-        run: bundle install
+        run: |
+          cd Personal
+          bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-        working-directory: Personal
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: |
+          cd Personal
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-        working-directory: Personal
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
