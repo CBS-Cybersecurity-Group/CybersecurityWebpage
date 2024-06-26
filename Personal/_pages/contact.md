@@ -1,8 +1,8 @@
 ---
 title: Contact
-subtitle: Please get in touch for more information.
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Please get in touch for more information. You can contact Raghava Rao Mukkamala under rrm.digi@cbs.dk 
+description: Contact for Cybersecurity Lab.
 featured_image: /images/demo/contact.jpg
 ---
 
-{% include contact-form.html %}
+[//]: # (Comented out because not activated {% include contact-form.html %})
