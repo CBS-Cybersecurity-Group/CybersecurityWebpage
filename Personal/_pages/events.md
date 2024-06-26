@@ -54,7 +54,7 @@ featured_image: /images/demo/events.jpg
                             <p>
                            		Join us on
                            		<a href="https://www.cybermesterskaberne.dk/">
-		                            <i class="fab fa-globe"></i>
+		                            <i class="fa-regular fa-globe"></i>
 		                        </a>
 		                    </p>
                         </div>
@@ -75,7 +75,7 @@ featured_image: /images/demo/events.jpg
                             <p>
                            		Join us on
                            		<a href="link">
-		                            <i class="fab fa-globe"></i>
+		                            <i class="fa-regular fa-globe"></i>
 		                        </a>
 		                    </p>
                         </div>
@@ -121,7 +121,7 @@ featured_image: /images/demo/events.jpg
                 <p class="text-center">
                		Read more on
                		<a href="https://www.cybermesterskaberne.dk/landsholdet/">
-                        <i class="fab fa-globe"></i>
+                        <i class="fa-regular fa-globe"></i>
                     </a>
                 </p>
             </div>
@@ -133,7 +133,7 @@ featured_image: /images/demo/events.jpg
                 <p class="text-center">
                		Read more on
                		<a href="https://www.cyberskills.dk/roadshow/">
-                        <i class="fab fa-globe"></i>
+                        <i class="fa-regular fa-globe"></i>
                     </a>
                 </p>
             </div>
