@@ -1,7 +1,7 @@
 ---
 title: Our amazing team
 subtitle: Collaboration between students and academic professionals.
-description: Presenting the team
+description: Presenting the Cybersecurity Lab team.
 featured_image: /images/demo/team.jpg
 ---
 
