@@ -30,7 +30,7 @@ featured_image: /images/demo/events.jpg
                             <h4 class="subheading" style="color:rgb(42, 47, 54)">Cybersecurity Club Event</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Visit CBS to get first hand cybersecurity insights.</p>
+                            <p class="text-muted">Visit CBS to get first-hand cybersecurity insights.</p>
                            	<!-- <p>
                            		Join us on
                            		<a href="#" style="text-decoration:none">
