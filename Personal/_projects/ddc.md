@@ -1,7 +1,7 @@
 ---
 title: 'The Danish Cybersecurity Championship'
 subtitle: 'CTF development and workshops'
-date: 2018-06-30 00:00:00
+date: 2024-26-06 00:00:00
 description: The Cybersecurity Lab collaboration with the Danish Cybersecurity Championship.
 featured_image: '/images/demo/challenges.jpg'
 ---
