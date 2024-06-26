@@ -22,59 +22,60 @@ featured_image: /images/demo/events.jpg
             <ul class="timeline">
                 <li>
                     <div class="timeline-image">
+                        <img class="rounded-circle img-responsive" src="images/events/4.jpg" alt="">
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4 style="color:rgb(42, 47, 54)">Autumn Semester 2024 (TBD)</h4>
+                            <h4 class="subheading" style="color:rgb(42, 47, 54)">Cybersecurity Club Event</h4>
+                        </div>
+                        <div class="timeline-body">
+                            <p class="text-muted">Visit CBS to get first hand cybersecurity insights.</p>
+                           	<!-- <p>
+                           		Join us on
+                           		<a href="#">
+		                            <i class="fab fa-facebook"></i>
+		                        </a>
+		                    </p> -->
+                        </div>
+                    </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-image">
                         <img class="rounded-circle img-responsive" src="images/events/1.jpg" alt="">
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4 style="color:rgb(42, 47, 54)">November 17</h4>
-                            <h4 class="subheading" style="color:rgb(42, 47, 54)">CyberSecurity Roadshow</h4>
+                            <h4 style="color:rgb(42, 47, 54)">February 2024 (TBD)</h4>
+                            <h4 class="subheading" style="color:rgb(42, 47, 54)">De Danske Cybermesterskaber</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Visit CBS to get first hand cyber security career insights.</p>
-                           	<p>
+                            <p class="text-muted">The training sessions mark the start of the Danish Cybersecurity Championship.</p>
+                            <p>
                            		Join us on
-                           		<a href="#">
-		                            <i class="fab fa-facebook"></i>
+                           		<a href="https://www.cybermesterskaberne.dk/">
+		                            <i class="fab fa-globe"></i>
 		                        </a>
 		                    </p>
                         </div>
                     </div>
                 </li>
-                <li class="timeline-inverted">
+                <!-- Uncomment the part below if more events should be added
+                <li>
                     <div class="timeline-image">
                         <img class="rounded-circle img-responsive" src="images/events/2.jpg" alt="">
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4 style="color:rgb(42, 47, 54)">December 19</h4>
-                            <h4 class="subheading" style="color:rgb(42, 47, 54)">ICSA Hackathon</h4>
+                            <h4 style="color:rgb(42, 47, 54)">Date</h4>
+                            <h4 class="subheading" style="color:rgb(42, 47, 54)">Event Name</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Be a part of our cyber security hackathon.</p>
+                            <p class="text-muted">Event Description</p>
                             <p>
                            		Join us on
-                           		<a href="#">
-		                            <i class="fab fa-facebook"></i>
-		                        </a>
-		                    </p>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="timeline-image">
-                        <img class="rounded-circle img-responsive" src="images/events/3.jpg" alt="">
-                    </div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <h4 style="color:rgb(42, 47, 54)">January 10 (2023)</h4>
-                            <h4 class="subheading" style="color:rgb(42, 47, 54)">Danish Championship</h4>
-                        </div>
-                        <div class="timeline-body">
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                            <p>
-                           		Join us on
-                           		<a href="#">
-		                            <i class="fab fa-facebook"></i>
+                           		<a href="link">
+		                            <i class="fab fa-globe"></i>
 		                        </a>
 		                    </p>
                         </div>
@@ -82,24 +83,25 @@ featured_image: /images/demo/events.jpg
                 </li>
                 <li class="timeline-inverted">
                     <div class="timeline-image">
-                        <img class="rounded-circle img-responsive" src="images/events/4.jpg" alt="">
+                        <img class="rounded-circle img-responsive" src="images/events/3.jpg" alt="">
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4 style="color:rgb(42, 47, 54)">March 12 (2023)</h4>
-                            <h4 class="subheading" style="color:rgb(42, 47, 54)">Phase Two Expansion</h4>
+                            <h4 style="color:rgb(42, 47, 54)">Date</h4>
+                            <h4 class="subheading" style="color:rgb(42, 47, 54)">Event Name</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur.</p>
+                            <p class="text-muted">Event Description</p>
                             <p>
                            		Join us on
-                           		<a href="#">
+                           		<a href="link">
 		                            <i class="fab fa-facebook"></i>
 		                        </a>
 		                    </p>
                         </div>
                     </div>
                 </li>
+                -->
             </ul>
         </div>
     </div>
@@ -115,11 +117,11 @@ featured_image: /images/demo/events.jpg
         <div class="col-sm-4">
             <div class="team-member m-4">
                 <img src="images/events/2.jpg" class="img-responsive rounded-circle" alt="">
-                <h4 class="mt-3 text-center">2021 Hackathon</h4>
+                <h4 class="mt-3 text-center">2023 Cybersecurity Championship</h4>
                 <p class="text-center">
                		Read more on
-               		<a href="#">
-                        <i class="fab fa-linkedin"></i>
+               		<a href="https://www.cybermesterskaberne.dk/landsholdet/">
+                        <i class="fab fa-globe"></i>
                     </a>
                 </p>
             </div>
@@ -127,11 +129,11 @@ featured_image: /images/demo/events.jpg
          <div class="col-sm-4">
             <div class="team-member m-4">
                 <img src="images/events/1.jpg" class="img-responsive rounded-circle" alt="">
-                <h4 class="mt-3 text-center">2020 Roadshow</h4>
+                <h4 class="mt-3 text-center">2022 CyberSecurity Roadshow</h4>
                 <p class="text-center">
                		Read more on
-               		<a href="#">
-                        <i class="fab fa-linkedin"></i>
+               		<a href="https://www.cyberskills.dk/roadshow/">
+                        <i class="fab fa-globe"></i>
                     </a>
                 </p>
             </div>
@@ -140,12 +142,12 @@ featured_image: /images/demo/events.jpg
             <div class="team-member m-4">
                 <img src="images/events/4.jpg" class="img-responsive rounded-circle" alt="">
                 <h4 class="mt-3 text-center">CS Coffee Chat</h4>
-                <p class="text-center">
+                <!-- <p class="text-center">
                		Read more on
                		<a href="#">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                </p>
+                </p> -->
             </div>
         </div>
     </div>
