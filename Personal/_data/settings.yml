@@ -170,29 +170,38 @@ people:
     - title: github
       url: https://github.com/raghavamukkamala
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Martin Havresøe
+  pic: martin
+  position: Student Assistant
   social:
     - title: linkedin
-      url: #
+      url: https://dk.linkedin.com/in/martin-havres%C3%B8e
     - title: github
-      url: #
+      url: https://github.com/Mahadigi
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Alisia Michel
+  pic: alisia
+  position: Alumna
   social:
     - title: linkedin
-      url: #
+      url: www.linkedin.com/in/alisia-michel-7ba48b195
     - title: github
-      url: #
+      url: https://github.com/almi22ad
 
-- name: Jane Doe
-  pic: 4
-  position: Lead Developer
+- name: Arianna Sammarchi
+  pic: arianna
+  position: Alumna
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/arianna-sammarchi/
     - title: github
-      url: #
+      url: https://github.com/AriannaSammarchi
+
+- name: Michelle von Huth
+  pic: michelle
+  position: Alumna
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/michellevonhuth/
+    - title: github
+      url: https://github.com/MichellevonHuth
