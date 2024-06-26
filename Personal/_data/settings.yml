@@ -161,14 +161,14 @@ advanced_settings:
 
   # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Raghava Rao Mukkamala
+  pic: raghava
+  position: Director
   social:
     - title: linkedin
-      url: "/"
+      url: https://dk.linkedin.com/in/raghavamukkamala
     - title: github
-      url: #
+      url: https://github.com/raghavamukkamala
 
 - name: Larry Parker
   pic: 2

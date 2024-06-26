@@ -26,7 +26,7 @@ featured_image: /images/demo/events.jpg
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4 style="color:rgb(42, 47, 54)">Autumn Semester 2024 (TBD)</h4>
+                            <h4 style="color:rgb(42, 47, 54)">Autumn 2024 (TBD)</h4>
                             <h4 class="subheading" style="color:rgb(42, 47, 54)">Cybersecurity Club Event</h4>
                         </div>
                         <div class="timeline-body">
