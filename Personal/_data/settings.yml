@@ -1,10 +1,10 @@
 basic_settings:
   site_title: Lab X CBS
-  favicon_image: /Images/Logo/l4.png
+  favicon_image: /images/Logo/l4.png
 
 
 header_settings:
-  logo_image: /Images/Logo/l6.png
+  logo_image: /images/Logo/l6.png
   logo_width: 400
 
 menu_settings:
