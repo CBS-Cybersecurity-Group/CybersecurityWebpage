@@ -33,7 +33,7 @@ featured_image: /images/demo/events.jpg
                             <p class="text-muted">Visit CBS to get first hand cybersecurity insights.</p>
                            	<!-- <p>
                            		Join us on
-                           		<a href="#">
+                           		<a href="#" style="text-decoration:none">
 		                            <i class="fab fa-facebook"></i>
 		                        </a>
 		                    </p> -->
@@ -53,7 +53,7 @@ featured_image: /images/demo/events.jpg
                             <p class="text-muted">The training sessions mark the start of the Danish Cybersecurity Championship.</p>
                             <p>
                            		Join us on
-                           		<a href="https://www.cybermesterskaberne.dk/">
+                           		<a href="https://www.cybermesterskaberne.dk/" style="text-decoration:none">
 		                            <i class="fas fa-globe"></i>
 		                        </a>
 		                    </p>
@@ -74,7 +74,7 @@ featured_image: /images/demo/events.jpg
                             <p class="text-muted">Event Description</p>
                             <p>
                            		Join us on
-                           		<a href="link">
+                           		<a href="link" style="text-decoration:none">
 		                            <i class="fa-regular fa-globe"></i>
 		                        </a>
 		                    </p>
@@ -94,7 +94,7 @@ featured_image: /images/demo/events.jpg
                             <p class="text-muted">Event Description</p>
                             <p>
                            		Join us on
-                           		<a href="link">
+                           		<a href="link" style="text-decoration:none">
 		                            <i class="fab fa-facebook"></i>
 		                        </a>
 		                    </p>
@@ -120,7 +120,7 @@ featured_image: /images/demo/events.jpg
                 <h4 class="mt-3 text-center">2023 Cybersecurity Championship</h4>
                 <p class="text-center">
                		Read more on
-               		<a href="https://www.cybermesterskaberne.dk/landsholdet/">
+               		<a href="https://www.cybermesterskaberne.dk/landsholdet/" style="text-decoration:none">
                         <i class="fas fa-globe"></i>
                     </a>
                 </p>
@@ -132,7 +132,7 @@ featured_image: /images/demo/events.jpg
                 <h4 class="mt-3 text-center">2022 CyberSecurity Roadshow</h4>
                 <p class="text-center">
                		Read more on
-               		<a href="https://www.cyberskills.dk/roadshow/">
+               		<a href="https://www.cyberskills.dk/roadshow/" style="text-decoration:none">
                         <i class="fas fa-globe"></i>
                     </a>
                 </p>
@@ -144,7 +144,7 @@ featured_image: /images/demo/events.jpg
                 <h4 class="mt-3 text-center">CS Coffee Chat</h4>
                 <!-- <p class="text-center">
                		Read more on
-               		<a href="#">
+               		<a href="#" style="text-decoration:none">
                         <i class="fab fa-linkedin"></i>
                     </a>
                 </p> -->
