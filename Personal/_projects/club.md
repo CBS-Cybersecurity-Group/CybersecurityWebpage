@@ -6,8 +6,6 @@ description: The Cybersecurity Club for a community between students, researcher
 featured_image: '/images/demo/team.jpg'
 ---
 
-![](/images/demo/phishing.jpg)
-
 ## The Cybersecurity Club
 
 The Cybersecurity Club aims to introuce students to cybersecurity by hosting events connecting students, researchers, and professionals.
