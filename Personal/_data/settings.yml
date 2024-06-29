@@ -195,6 +195,13 @@ people:
     - title: github
       url: https://github.com/Ttrr86
 
+- name: Sippo Rossi
+  pic: sippo
+  position: Alumnus
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sippo/
+
 - name: Arianna Sammarchi
   pic: arianna
   position: Alumna
